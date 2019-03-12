@@ -1,9 +1,19 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "name": "Sand",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Sand.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Sand.jpg"
+    },
+    {
+      "name": "Deep_Space",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Deep_Space.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Deep_Space.jpg"
+    },
+    {
+      "name": "Carrots",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
     },
     {
       "name": "City",
@@ -11,52 +21,49 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
     {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+      "name": "Carrots",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
     },
     {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+      "name": "50",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
     }
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people",
+      "name": "Virus",
+      "author": "RKBDI",
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Virus.jpg",
+      "collections": "featured,landscapes",
       "downloadable": false
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
+      "name": "Deep Space",
+      "author": "RKBDI",
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Deep_Space.jpg",
+      "collections": "featured,landscapes",
       "downloadable": false
     },
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
+      "author": "RKBDI",
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Sand.jpg",
+      "name": "Sand",
       "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
+      "collections": "landscapes"
     },
     {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
+      "name": "Sea",
+      "author": "RKBDI",
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Sea.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Sea.jpg",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city"
+      "collections": "featured,landscapes"
     },
     {
       "name": "Wallsplash 2",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
       "dimensions": "3200x2560",
@@ -65,7 +72,7 @@
     },
     {
       "name": "Wallsplash 3",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
       "dimensions": "3200x2560",
@@ -74,7 +81,7 @@
     },
     {
       "name": "Wallsplash 4",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
       "dimensions": "3200x2560",
@@ -83,7 +90,7 @@
     },
     {
       "name": "Wallsplash 5",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
       "dimensions": "3200x2560",
@@ -92,7 +99,7 @@
     },
     {
       "name": "Wallsplash 6",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
       "dimensions": "3200x2560",
@@ -101,7 +108,7 @@
     },
     {
       "name": "Wallsplash 7",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
       "dimensions": "3200x2560",
@@ -110,7 +117,7 @@
     },
     {
       "name": "Wallsplash 8",
-      "author": "wallsplash",
+      "author": "RKBDI",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
       "dimensions": "3200x2560",
@@ -119,7 +126,7 @@
     },
     {
       "name": "Webp Image",
-      "author": "unknown",
+      "author": "RKBDI",
       "url": "https://www.gstatic.com/webp/gallery/4.webp",
       "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
       "dimensions": "3200x2560",
