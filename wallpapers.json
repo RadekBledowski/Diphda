@@ -40,7 +40,6 @@
       "author": "RKBDI",
       "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Sand.jpg",
       "name": "Sand",
-      "copyright": "Credits to its creator",
       "collections": "landscapes"
     },
     {
@@ -48,18 +47,17 @@
       "author": "RKBDI",
       "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/wallpapers/Sea.jpg",
       "thumbnail": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Sea.jpg",
-      "copyright": "Free (do whatever you want)",
       "collections": "featured,landscapes"
     },
         {
       "name": "Carrots",
-      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
     },
     {
       "name": "50",
-      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
+      "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
     }
   ]
 }
