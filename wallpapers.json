@@ -16,16 +16,6 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
     },
     {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Carrots",
-      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
-    },
-    {
       "name": "50",
       "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
@@ -60,6 +50,16 @@
       "thumbnail": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Sea.jpg",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,landscapes"
+    },
+        {
+      "name": "Carrots",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
+    },
+    {
+      "name": "50",
+      "preview_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
     }
   ]
 }
