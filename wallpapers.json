@@ -50,14 +50,20 @@
       "collections": "featured,landscapes"
     },
         {
+      "author": "RKBDI",
       "name": "Carrots",
       "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/Carrots.jpg"
+      "collections": "featured,landscapes",
+      "downloadable": false
     },
     {
+      "author": "RKBDI",
       "name": "50",
       "url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/RadekBledowski/Diphda/master/Preview/50.jpg",
+      "collections": "featured,landscapes",
+      "downloadable": false
     }
   ]
 }
